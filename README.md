@@ -50,3 +50,8 @@ Library_Management_Project
 ## How to Run
 1. Compile: `javac -d . library/models/*.java library/filehandling/*.java library/services/*.java library/main.java`
 2. Run: `java library.main`
+
+## Students
+- Sia Gupta - 24CSU201
+- Jiya Gosain - 24CSU313
+- Aaditiya Chauhan - 24CSU362
