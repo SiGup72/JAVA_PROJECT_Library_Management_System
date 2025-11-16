@@ -1,0 +1,6 @@
+B101,ABC,XYZ,Comic
+B102,Python,MNO,Academic
+B106,Java OOPS,MNO,Academic
+
+
+B103,DBMS,XYZ,Academic
