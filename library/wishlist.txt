@@ -1,2 +1,0 @@
-M001,Chirag,B101,ABC
-M001,Chirag,B102,Python
