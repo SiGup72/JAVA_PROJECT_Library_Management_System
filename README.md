@@ -48,7 +48,7 @@ Library_Management_Project
 ```
 
 ## How to Run
-1. Compile: `javac -d . library/models/*.java library/filehandling/*.java library/services/*.java library/main.java`
+1. Compile: `javac -d . library\main.java library\models\*.java library\filehandling\*.java library\services\*.java`
 2. Run: `java library.main`
 
 ## Students
