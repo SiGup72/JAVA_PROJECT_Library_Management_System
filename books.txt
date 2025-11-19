@@ -1,6 +1,8 @@
-B101,ABC,XYZ,Comic
-B102,Python,MNO,Academic
-B106,Java OOPS,MNO,Academic
-
-
-B103,DBMS,XYZ,Academic
+B001,Java OOPS,Herbert Schildt,Academic
+B002,To Kill a Mockingbird,Harper Lee,Classic
+B003,Gitanjali,Rabindranath Tagore,Poetry
+B004,Harry Potter,J.K. Rowling,Fantasy
+B005,Dune,Frank Herbert,Sci-fi
+B006,And Then There Were None,Agatha Christie,Mystery
+B007,Call Me By Your Name,Andre Aciman,LGBTQ+ Romance
+B012,ABC,XYZ,MNO
